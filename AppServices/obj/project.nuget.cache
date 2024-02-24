@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mTXC2OzMTPTxGmohiHhCnCZ3hAqa0NcXm91j8pq+Yulf8kzujOFUL9w5aUJH9Eh/cZjyBLW7gfphXEpxIMKi1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\appservices\\AppServices\\AppServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
